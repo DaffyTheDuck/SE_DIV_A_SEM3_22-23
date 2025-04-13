@@ -1,9 +1,0 @@
-1. User can reply to each other (comments should be limited)
-2. Developer's response must be highlighted
-3. Can find other similar/exact bugs
-4. If a user has error file he/she can upload it
-
-
-NOTE: Look at Microsoft Feedback Hub for more ideas
-
- 
